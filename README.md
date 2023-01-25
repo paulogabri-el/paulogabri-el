@@ -25,4 +25,4 @@
 
 <div>
   <a href="https://github.com/paulogabri-el">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulogabri-el&show_icons=true&theme=dark&include_all_commits=true&count_privete=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulogabri-el&show_icons=true&theme=transparent&include_all_commits=true&count_privete=true"/>

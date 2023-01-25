@@ -5,7 +5,7 @@
 ## **Paulo Gabriel**
 
 
-### <img align="center" alt="Postgresql" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" /> Em aprendizado:
+### <img align="center" alt="Postgresql" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" /> Em desenvolvimento:
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Postgresql" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
